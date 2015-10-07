@@ -2,5 +2,6 @@
 <RCC>
     <qresource prefix="/io/coldnew/hello">
         <file>qmldir</file>
+        <file>HelloQpm.qml</file>
     </qresource>
 </RCC>
