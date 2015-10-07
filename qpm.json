@@ -1,0 +1,22 @@
+{
+  "name": "io.coldnew.hello",
+  "description": "",
+  "author": {
+    "name": "Yen-Chin Lee",
+    "email": "coldnew.tw@gmail.com"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": "https://github.com/coldnew/qpm-hello"
+  },
+  "version": {
+    "label": "0.0.1",
+    "revision": "",
+    "fingerprint": ""
+  },
+  "dependencies": [
+  ],
+  "license": "MIT",
+  "pri_filename": "io_coldnew_hello.pri",
+  "webpage": ""
+}
